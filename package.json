@@ -1,0 +1,14 @@
+{
+  "name": "de",
+  "version": "0.0.1",
+  "description": "Design elements - build with mumble jumble of design tokens",
+  "main": "index.js",
+  "repository": "https://github.com/IsAmrish/de",
+  "workspace": [
+    "packages/*",
+    "www/*"
+  ],
+  "author": "isamrish",
+  "license": "MIT",
+  "private": false
+}
